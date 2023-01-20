@@ -26,4 +26,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "activesupport", '>= 3.2.11'
   gem.add_dependency "activemodel",   '>= 3.2.11'
   gem.add_dependency 'unidecoder', '~> 1.1'
+  gem.add_dependency 'bigdecimal', '1.3.5'
+
 end
